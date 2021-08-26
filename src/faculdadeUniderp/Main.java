@@ -14,6 +14,7 @@ public class Main {
 		System.out.println(cliente);
 		System.out.println(cliente2);
 		System.out.println(cliente.getNome());
+		System.out.println("Lucas");
 		
 
 	}
